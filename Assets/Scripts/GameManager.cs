@@ -60,8 +60,7 @@ public class GameManager : MonoBehaviour
 	{
 		SceneManager.LoadScene(SceneManager.GetActiveScene().name);
 	}
-
-
+	
 	void OnGUI()
 	{
 		if (isFinished)
@@ -83,5 +82,11 @@ public class GameManager : MonoBehaviour
 			GUI.Box(new Rect(Screen.width / 2 - 65, Screen.height - 115, 180, 40), "Текущее время забега");
 			GUI.Label(new Rect(Screen.width / 2 - offsetX, Screen.height - 100, 20, 30), ((int) elapsedTime).ToString());
 		}
+	}
+
+
+	public void UpdateStartCount()
+	{
+		throw new System.NotImplementedException();
 	}
 }
