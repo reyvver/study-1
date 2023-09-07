@@ -39,7 +39,7 @@ public class GameManager : MonoBehaviour
 			ui.UpdateTime((int)elapsedTime);
 		}
 
-		if (isFinished || Input.GetKeyDown(KeyCode.Return))
+		if (isFinished && Input.GetKeyDown(KeyCode.Return))
 		{
 			ReloadScene();
 		}
