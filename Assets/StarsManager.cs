@@ -1,18 +1,40 @@
-using System.Collections;
-using System.Collections.Generic;
+using DefaultNamespace;
 using UnityEngine;
 
 public class StarsManager : MonoBehaviour
 {
-    // Start is called before the first frame update
+    [SerializeField] private UIManager ui;
+    [SerializeField] private GameManager game;
+
+    private int _currentStarCollected;
+    private int _maxStarCount;
+    
     void Start()
     {
-        Debug.Log(transform.childCount);
+        _currentStarCollected = 0;
+        _maxStarCount = transform.childCount;
+        
+        UpdateView();
+        UpdateProgress();
     }
 
-    // Update is called once per frame
-    void Update()
+    private void UpdateView()
     {
-        
+        ui.UpdateStarsCount(_currentStarCollected + "/" + _maxStarCount);
     }
+
+    private void UpdateProgress()
+    {
+        ui.UpdateSlider((float)_currentStarCollected/_maxStarCount);
+    }
+    
+    public void StarCollected()
+    {
+        _currentStarCollected++;
+        UpdateView();
+        UpdateProgress();
+        
+        if (_currentStarCollected == _maxStarCount) game.Finish();
+    }
+
 }

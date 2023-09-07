@@ -1,10 +1,11 @@
-// ����������� ���������
+using DefaultNamespace;
 using UnityEngine;
 using UnityStandardAssets.Characters.FirstPerson;
 using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
+	public UIManager ui;
 	public int offsetX = -15;
 	public Transform spawnPoint;
 	public GameObject player;
@@ -14,7 +15,7 @@ public class GameManager : MonoBehaviour
 	private bool isFinished = false;
 
 	private FirstPersonController fpsController;
-
+	
 	void Start ()
 	{
 		fpsController = player.GetComponent<FirstPersonController> ();
@@ -35,6 +36,7 @@ public class GameManager : MonoBehaviour
 		if (isRunning)
 		{
 			elapsedTime = elapsedTime + Time.deltaTime;
+			ui.UpdateTime((int)elapsedTime);
 		}
 
 		if (Input.GetKey("escape"))
@@ -60,33 +62,10 @@ public class GameManager : MonoBehaviour
 	{
 		SceneManager.LoadScene(SceneManager.GetActiveScene().name);
 	}
-	
-	void OnGUI()
+
+	public void Finish()
 	{
-		if (isFinished)
-		{
-			Rect startButton = new Rect(Screen.width / 2 - 120, Screen.height / 2, 255, 30);
-
-			if (GUI.Button(startButton, "Нажмите Enter чтобы повторить забег") || Input.GetKeyDown(KeyCode.Return))
-				ReloadScene();
-		}
-
-		if (isFinished)
-		{
-			GUI.Box(new Rect(Screen.width / 2 - 65, 185, 180, 40), "Итоговое время забега");
-
-			GUI.Label(new Rect(Screen.width / 2 - offsetX, 200, 20, 30), ((int) elapsedTime).ToString());
-		}
-		else if (isRunning)
-		{
-			GUI.Box(new Rect(Screen.width / 2 - 65, Screen.height - 115, 180, 40), "Текущее время забега");
-			GUI.Label(new Rect(Screen.width / 2 - offsetX, Screen.height - 100, 20, 30), ((int) elapsedTime).ToString());
-		}
-	}
-
-
-	public void UpdateStartCount()
-	{
-		throw new System.NotImplementedException();
+		FinishedGame();
+		ui.ShowFinishPanel();
 	}
 }

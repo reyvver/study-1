@@ -2,185 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3005ce10-2102-4c93-bea0-415c36f9bfbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/BOXOPHOBIC/uploads_files_3525927_Cute+Star.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/BOXOPHOBIC/uploads_files_3525927_Cute+Star.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Demo.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Demo/DemoGrassFlowers.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Demo/DemoGrassFlowers.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Demo/DemoGrassFlowers.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Demo/DemoGrassFlowers/LightingData.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Demo/DemoGrassFlowers/LightingData.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Demo/DemoGrassFlowers/ReflectionProbe-0.exr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Demo/DemoGrassFlowers/ReflectionProbe-0.exr.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Demo/DemoGrassFlowersSettings.lighting" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Demo/DemoGrassFlowersSettings.lighting.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Post-Processing For GrassFlowers.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Post-Processing For GrassFlowers.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grass01.tga" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grass01.tga.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grass02.tga" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grass02.tga.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grassFlower01.tga" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grassFlower01.tga.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grassFlower02.tga" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grassFlower02.tga.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grassFlower03.tga" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grassFlower03.tga.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grassFlower04.tga" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grassFlower04.tga.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grassFlower05.tga" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grassFlower05.tga.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grassFlower06.tga" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grassFlower06.tga.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grassFlower07.tga" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grassFlower07.tga.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grassFlower08.tga" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grassFlower08.tga.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grassFlower09.tga" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grassFlower09.tga.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grassFlower10.tga" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/GrassFlowers/grassFlower10.tga.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/Ground.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/Ground/Grass01_BigUV.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/GrassFlowers/Textures/Ground/Grass01_BigUV.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Demo.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Demo.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Info.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Info/Icons.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Info/Icons/Help_Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Info/Icons/Help_Icon.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Info/Icons/Water Shader icon.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Info/Icons/Water Shader icon.PNG.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Info/Readme.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Info/Readme.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Info/Scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Info/Scripts/Editor.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Info/Scripts/Editor/ReadmeEditor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Info/Scripts/Editor/ReadmeEditor.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Info/Scripts/Readme.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Info/Scripts/Readme.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Prefabs/WaterBlock_50m.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Prefabs/WaterBlock_50m.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Prefabs/WaterReflectionCamera.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Prefabs/WaterReflectionCamera.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Resources.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Resources/WaterBlock_50m.mesh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Resources/WaterBlock_50m.mesh.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Resources/WaterReflection.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Resources/WaterReflection.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Resources/WaterReflection.renderTexture" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Resources/WaterReflection.renderTexture.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Resources/WaterShader.shadergraph" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Resources/WaterShader.shadergraph.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Resources/WaterSurface_atlas.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Resources/WaterSurface_atlas.tif.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Resources/WaterSurface_single.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Resources/WaterSurface_single.tif.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_01.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_01.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_02.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_02.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_03.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_03.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/New Material.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/New Material.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/New Terrain.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/New Terrain.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Layers.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Layers/NewLayer 1.terrainlayer" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Layers/NewLayer 1.terrainlayer.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Layers/NewLayer 2.terrainlayer" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Layers/NewLayer 2.terrainlayer.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Layers/NewLayer.terrainlayer" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Layers/NewLayer.terrainlayer.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Layers/TerrainHeightmap.raw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Layers/TerrainHeightmap.raw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Materials/Material.001 new.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Materials/Material.001 new.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Materials/Material.001.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Materials/Material.001.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Materials/Material.002.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Materials/Material.002.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Materials/Material.003.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Materials/Material.003.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/FinishZone.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/FinishZone.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/Star.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/Star.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Rendering.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Rendering/URP.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Rendering/URP.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Rendering/URP_Renderer.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Rendering/URP_Renderer.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Sounds.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Sounds/item-pick-up-38258.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Sounds/item-pick-up-38258.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Sounds/magic-in-the-air-43177.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Sounds/magic-in-the-air-43177.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Sounds/wind-chimes-bells-115747.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Sounds/wind-chimes-bells-115747.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Terrains.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Terrains/New Terrain.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Terrains/New Terrain.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Terrains/TerrainData_1c70dfad-8149-47da-8dca-4fad15437493.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Terrains/TerrainData_1c70dfad-8149-47da-8dca-4fad15437493.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Terrains/TerrainData_2a1e297e-9cf9-41aa-9c13-178a0096f1de.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Terrains/TerrainData_2a1e297e-9cf9-41aa-9c13-178a0096f1de.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Terrains/TerrainData_4b9b6fa9-27e8-4cea-a151-9034b1f2dcfa.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Terrains/TerrainData_4b9b6fa9-27e8-4cea-a151-9034b1f2dcfa.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Terrains/TerrainData_673aed77-1ca6-4d08-8535-54db8290836a.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Terrains/TerrainData_673aed77-1ca6-4d08-8535-54db8290836a.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Terrains/TerrainData_f3d4668e-a1a6-4bdb-9fc0-4730f2b702ce.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Terrains/TerrainData_f3d4668e-a1a6-4bdb-9fc0-4730f2b702ce.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Textures.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Textures/NewLayer.terrainlayer" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Textures/NewLayer.terrainlayer.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Textures/purple-flowers-2048x2048.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Textures/purple-flowers-2048x2048.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/High_PipelineAsset.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/High_PipelineAsset.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/High_PipelineAsset_ForwardRenderer.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/High_PipelineAsset_ForwardRenderer.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Low_PipelineAsset.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Low_PipelineAsset.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Low_PipelineAsset_ForwardRenderer.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Low_PipelineAsset_ForwardRenderer.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Medium_PipelineAsset.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Medium_PipelineAsset.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Medium_PipelineAsset_ForwardRenderer.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Medium_PipelineAsset_ForwardRenderer.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Ultra_PipelineAsset.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Ultra_PipelineAsset.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Ultra_PipelineAsset_ForwardRenderer.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Ultra_PipelineAsset_ForwardRenderer.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Very High_PipelineAsset.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Very High_PipelineAsset.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Very High_PipelineAsset_ForwardRenderer.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Very High_PipelineAsset_ForwardRenderer.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Very Low_PipelineAsset.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Very Low_PipelineAsset.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Very Low_PipelineAsset_ForwardRenderer.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Settings/Very Low_PipelineAsset_ForwardRenderer.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Star.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Star.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/StarsManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/StarsManager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Grass01_BigUVd261c09ae55ba1e3.terrainlayer" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Grass01_BigUVd261c09ae55ba1e3.terrainlayer.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UIManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UIManager.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.study-lab-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.study-lab-1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - FirTree.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - FirTree.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - FirTreeVariation.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - FirTreeVariation.mat" afterDir="false" />
@@ -189,119 +12,21 @@
       <change beforePath="$PROJECT_DIR$/Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - Terrain.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - Terrain.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - TreeTrunk.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - TreeTrunk.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - Wood.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - Wood.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/NewLayer 1.terrainlayer" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/NewLayer 1.terrainlayer.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/NewLayer 2.terrainlayer" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/NewLayer 2.terrainlayer.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/NewLayer.terrainlayer" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/NewLayer.terrainlayer.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/TerrainHeightmap.raw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/TerrainHeightmap.raw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/Skybox Cubemap Extended Night.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/Skybox Cubemap Extended Night.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Font/RobotoCondensedBold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Font/RobotoCondensedBold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/Star.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/Star.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Terrains/New Terrain.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Terrains/New Terrain.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Textures/NewLayer.terrainlayer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Textures/NewLayer.terrainlayer.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerRespawn.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerRespawn.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Materials/RollerBallGrey.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Materials/RollerBallGrey.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Materials/RollerBallWhite.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Materials/RollerBallWhite.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanGrey.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanGrey.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanWhite.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanWhite.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/BroadleafBark.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/BroadleafBark.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/BroadleafBark_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/BroadleafBark_Normal.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/Billboard.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/Billboard.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Branches_0.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Branches_0.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Branches_1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Branches_1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/FacingLeaves_4.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/FacingLeaves_4.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Fronds_2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Fronds_2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Leaves_3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Leaves_3.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Branches_0.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Branches_0.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Branches_1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Branches_1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/FacingLeaves_4.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/FacingLeaves_4.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Fronds_2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Fronds_2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Leaves_3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Leaves_3.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Branches_0.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Branches_0.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Branches_1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Branches_1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/FacingLeaves_4.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/FacingLeaves_4.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Fronds_2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Fronds_2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Leaves_3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Leaves_3.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop.spm.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop.spm.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Billboards.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Billboards.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Billboards_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Billboards_Normal.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Normal.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Specular.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Specular.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/Billboard.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/Billboard.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0/Branches_0.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0/Branches_0.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0/Leaves_1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0/Leaves_1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1/Branches_0.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1/Branches_0.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1/Leaves_1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1/Leaves_1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2/Branches_0.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2/Branches_0.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2/Leaves_1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2/Leaves_1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile.spm.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile.spm.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Billboards.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Billboards.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Billboards_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Billboards_Normal.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Normal.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Specular.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Specular.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop_Normal.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop_Spec.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop_Spec.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop_Normal.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop_Spec.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop_Spec.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile_Normal.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile_Spec.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile_Spec.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_01.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_01.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_01_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_01_Normal.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_02.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_02.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_02_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_02_Normal.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/ClippedFrond.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/ClippedFrond.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/ClippedFrond_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/ClippedFrond_Normal.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/Billboard.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/Billboard.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_0.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_0.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Fronds_2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Fronds_2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Leaves_3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Leaves_3.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_0.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_0.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Fronds_2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Fronds_2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Leaves_3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Leaves_3.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Branches_0.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Branches_0.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Branches_1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Branches_1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Leaves_3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Leaves_3.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop.spm.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop.spm.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Desktop_Normal.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Desktop_Normal.tga.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/Billboard.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/Billboard.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Branches_0.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Branches_0.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Branches_1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Branches_1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Fronds_2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Fronds_2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Leaves_3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Leaves_3.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Branches_0.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Branches_0.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Fronds_2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Fronds_2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Leaves_3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Leaves_3.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2/Branches_0.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2/Branches_0.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2/Fronds_2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2/Fronds_2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterDefault.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterDefault.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Materials/WaterPlaneMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Materials/WaterPlaneMaterial.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Materials/OceanPlaneMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Materials/OceanPlaneMaterial.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Advanced.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Advanced.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrains.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrains/New Terrain.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrains/New Terrain.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrains/TerrainData_1c70dfad-8149-47da-8dca-4fad15437493.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrains/TerrainData_1c70dfad-8149-47da-8dca-4fad15437493.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrains/TerrainData_2a1e297e-9cf9-41aa-9c13-178a0096f1de.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrains/TerrainData_2a1e297e-9cf9-41aa-9c13-178a0096f1de.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrains/TerrainData_4b9b6fa9-27e8-4cea-a151-9034b1f2dcfa.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrains/TerrainData_4b9b6fa9-27e8-4cea-a151-9034b1f2dcfa.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrains/TerrainData_673aed77-1ca6-4d08-8535-54db8290836a.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrains/TerrainData_673aed77-1ca6-4d08-8535-54db8290836a.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrains/TerrainData_f3d4668e-a1a6-4bdb-9fc0-4730f2b702ce.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrains/TerrainData_f3d4668e-a1a6-4bdb-9fc0-4730f2b702ce.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Star.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Star.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarVisual Profile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarVisual Profile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarsManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarsManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -392,6 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693998089459</updated>
       <workItem from="1694006953608" duration="5249000" />
+      <workItem from="1694082673001" duration="3343000" />
     </task>
     <servers />
   </component>

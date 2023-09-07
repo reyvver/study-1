@@ -3,6 +3,7 @@ using UnityEngine;
 
 public class Star : MonoBehaviour
 {
+    [SerializeField] private StarsManager starsManager;
     [SerializeField] private GameObject starVisual;
     [SerializeField] private float floatForce;
     [SerializeField] private float rotateSpeed;
@@ -39,9 +40,15 @@ public class Star : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         if (_collected) return;
+        OnCollect();
+    }
+
+    private void OnCollect()
+    {
         soundAura.Stop();
         soundCollect.Play();
         _collected = true;
         starVisual.SetActive(false);
+        starsManager.StarCollected();
     }
 }
