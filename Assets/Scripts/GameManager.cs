@@ -39,6 +39,11 @@ public class GameManager : MonoBehaviour
 			ui.UpdateTime((int)elapsedTime);
 		}
 
+		if (isFinished || Input.GetKeyDown(KeyCode.Return))
+		{
+			ReloadScene();
+		}
+
 		if (Input.GetKey("escape"))
 		{
 			Application.Quit();
